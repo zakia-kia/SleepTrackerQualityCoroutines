@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SleepTrackerQualityCoroutines</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Questions">How was your sleep?</string>
+    <string name="image_quality">image_quality</string>
+    <string name="tracing">How was your sleep?</string>
+    <string name="btn_strart">start</string>
+    <string name="btn_stop">stop</string>
+    <string name="btn_clear">clear</string>
+</resources>
